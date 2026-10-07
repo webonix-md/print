@@ -8,7 +8,7 @@
 window.SITE = {
   brand: "PRINTLAB",
 
-  phone: { tel: "+37369000000", label: "+373 69 000 000" },
+  phone: { tel: "+37360000000", label: "+373 60 000 000" },
   email: "info@example.md",
 
   address: "Кишинёв, ул. Примерная 1",
@@ -24,9 +24,9 @@ window.SITE = {
   // Кнопка «Открыть на карте»: что искать в Google Maps
   mapQuery: "Chișinău",
 
-  viber: "viber://chat?number=%2B37369000000",
+  viber: "viber://chat?number=%2B37360000000",
   telegram: "https://t.me/",
-  whatsapp: "https://wa.me/37369000000"
+  whatsapp: "https://wa.me/37360000000"
 };
 
 /* Подстановка данных в разметку. В HTML уже стоят те же значения —
